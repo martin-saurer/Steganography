@@ -1,2 +1,3 @@
 # Steganography
-How to hide text in a bitmap file
+
+Hide text in a bitmap file
